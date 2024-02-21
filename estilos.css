@@ -1,0 +1,31 @@
+*{ /*selector universal pone el estilo a todo el documento*/
+    margin: 0; /*establece el margen para los cuatros lados*/
+    padding: 5px; /*es el area de relleno separando el margen del texto*/
+    background-color: mistyrose /*color del fondo del documento*/
+    
+}
+h1{ /*es el titulo*/
+    color: lightpink; /*decoracion del texto*/
+    text-align: center; /*alinea el texto*/
+}
+
+h2{ /*titulo*/
+    color: rgb(248, 230, 233); /*decoracion del texto*/
+    background-color: lightpink; /*color del fondo*/
+}
+
+strong{ /* letras en negritas*/
+    color: rgb(255, 32, 147); /*decoracion del texto*/
+}
+
+em{ /*lestras en cursiva*/
+    color: rgb(253, 141, 193);
+}
+
+p{
+    text-align: justify; /*establece la alinacion del texto*/
+    text-indent: 60px; /*establece la longitud del espacio del inicio del texto*/
+    font-size: 20px; /*especifica la dimension de la letra*/
+}
+ 
+
